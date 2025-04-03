@@ -24,5 +24,5 @@ module.exports = {
     // Set Bot's Name. ( ඔයාට ඕනි බොට් නේම් එකක් දෙන්න...❤️)
     BOT_NAME: 'javis',
     // Define the bot's footer or signature. ( ඔයාගෙ නම දෙන්න...❤️)
-    FOOTER: 'put_your'
+    FOOTER: 'Javis_MD'
 };
