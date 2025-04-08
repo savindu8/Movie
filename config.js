@@ -20,7 +20,7 @@ module.exports = {
     // Set Bot's SexMv image.
     SX_MV: 'https://i.ibb.co/4RgkDKqn/parental-advisory-explicit-content-18-years-grunge-round-red-warning-stamp-isolated-on-white-vector.jpg',
     // Add Your Movie Group Jid
-    JID: 'your_jid',
+    JID: '120363418298810493@g.us',
     // Set Bot's Name. ( ඔයාට ඕනි බොට් නේම් එකක් දෙන්න...❤️)
     BOT_NAME: 'javis',
     // Define the bot's footer or signature. ( ඔයාගෙ නම දෙන්න...❤️)
